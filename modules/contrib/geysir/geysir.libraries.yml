@@ -1,0 +1,6 @@
+paragraphs:
+  version: 1.x
+  css:
+    theme:
+      css/geysir.dialog.css: {}
+      css/geysir.paragraphs.css: {}
